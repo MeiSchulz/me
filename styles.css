@@ -1,0 +1,51 @@
+/*  Anchor tag */
+
+.a2{
+    color: #E6B325;
+}
+
+
+/*  Img tag */
+.png {
+    width: 280px;
+    padding: 10px 50px 5px 15px;
+}
+
+body {
+    background-color: #EEF1FF;
+    color: black;
+    font-family: 'Montserrat', serif;
+}
+
+
+/*  Hheader tags and Horizonta rule */
+
+h1, h2, h3{
+    color: #1746A2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    background-color: #E6B325;
+}
+
+
+/*  Paragraph Financial Freedom with MoneyMei */
+.p1{
+color: #1746A2;
+}
+
+
+/*  Footer divs */
+
+.div1 {
+    padding: 0 0 30px 0;
+    margin:10px 0 350px 0;
+    position: absolute;
+}
+
+.div2 {
+    padding: 0 0 30px 0;
+    margin: 10px 0 350px 150px;
+    position: absolute;
+}
